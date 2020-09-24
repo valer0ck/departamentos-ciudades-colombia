@@ -1,0 +1,4688 @@
+[
+  {
+    "region": "Amazonas",
+    "code": "91",
+    "cities": [
+      {
+        "city": "EL ENCANTO",
+        "code": "91263"
+      },
+      {
+        "city": "LA CHORRERA",
+        "code": "91405"
+      },
+      {
+        "city": "LA PEDRERA",
+        "code": "91407"
+      },
+      {
+        "city": "LA VICTORIA",
+        "code": "91430"
+      },
+      {
+        "city": "LETICIA",
+        "code": "91001"
+      },
+      {
+        "city": "MIRITÍ – PARANÁ",
+        "code": "91460"
+      },
+      {
+        "city": "PUERTO ALEGRÍA",
+        "code": "91530"
+      },
+      {
+        "city": "PUERTO ARICA",
+        "code": "91536"
+      },
+      {
+        "city": "PUERTO NARIÑO",
+        "code": "91540"
+      },
+      {
+        "city": "PUERTO SANTANDER",
+        "code": "91669"
+      },
+      {
+        "city": "TARAPACÁ",
+        "code": "91798"
+      }
+    ]
+  },
+  {
+    "region": "Antioquia",
+    "code": "5",
+    "cities": [
+      {
+        "city": "ABEJORRAL",
+        "code": "05002"
+      },
+      {
+        "city": "ABRIAQUÍ",
+        "code": "05004"
+      },
+      {
+        "city": "ALEJANDRÍA",
+        "code": "05021"
+      },
+      {
+        "city": "AMAGÁ",
+        "code": "05030"
+      },
+      {
+        "city": "AMALFI",
+        "code": "05031"
+      },
+      {
+        "city": "ANDES",
+        "code": "05034"
+      },
+      {
+        "city": "ANGELÓPOLIS",
+        "code": "05036"
+      },
+      {
+        "city": "ANGOSTURA",
+        "code": "05038"
+      },
+      {
+        "city": "ANORÍ",
+        "code": "05040"
+      },
+      {
+        "city": "ANZÁ",
+        "code": "05044"
+      },
+      {
+        "city": "APARTADÓ",
+        "code": "05045"
+      },
+      {
+        "city": "ARBOLETES",
+        "code": "05051"
+      },
+      {
+        "city": "ARGELIA",
+        "code": "05055"
+      },
+      {
+        "city": "ARMENIA",
+        "code": "05059"
+      },
+      {
+        "city": "BARBOSA",
+        "code": "05079"
+      },
+      {
+        "city": "BELLO",
+        "code": "05088"
+      },
+      {
+        "city": "BELMIRA",
+        "code": "05086"
+      },
+      {
+        "city": "BETANIA",
+        "code": "05091"
+      },
+      {
+        "city": "BETULIA",
+        "code": "05093"
+      },
+      {
+        "city": "BRICEÑO",
+        "code": "05107"
+      },
+      {
+        "city": "BURITICÁ",
+        "code": "05113"
+      },
+      {
+        "city": "CÁCERES",
+        "code": "05120"
+      },
+      {
+        "city": "CAICEDO",
+        "code": "05125"
+      },
+      {
+        "city": "CALDAS",
+        "code": "05129"
+      },
+      {
+        "city": "CAMPAMENTO",
+        "code": "05134"
+      },
+      {
+        "city": "CAÑASGORDAS",
+        "code": "05138"
+      },
+      {
+        "city": "CARACOLÍ",
+        "code": "05142"
+      },
+      {
+        "city": "CARAMANTA",
+        "code": "05145"
+      },
+      {
+        "city": "CAREPA",
+        "code": "05147"
+      },
+      {
+        "city": "CAROLINA",
+        "code": "05150"
+      },
+      {
+        "city": "CAUCASIA",
+        "code": "05154"
+      },
+      {
+        "city": "CHIGORODÓ",
+        "code": "05172"
+      },
+      {
+        "city": "CISNEROS",
+        "code": "05190"
+      },
+      {
+        "city": "CIUDAD BOLÍVAR",
+        "code": "05101"
+      },
+      {
+        "city": "COCORNÁ",
+        "code": "05197"
+      },
+      {
+        "city": "CONCEPCIÓN",
+        "code": "05206"
+      },
+      {
+        "city": "CONCORDIA",
+        "code": "05209"
+      },
+      {
+        "city": "COPACABANA",
+        "code": "05212"
+      },
+      {
+        "city": "DABEIBA",
+        "code": "05234"
+      },
+      {
+        "city": "DONMATÍAS",
+        "code": "05237"
+      },
+      {
+        "city": "EBÉJICO",
+        "code": "05240"
+      },
+      {
+        "city": "EL BAGRE",
+        "code": "05250"
+      },
+      {
+        "city": "EL CARMEN DE VIBORAL",
+        "code": "05148"
+      },
+      {
+        "city": "EL SANTUARIO",
+        "code": "05697"
+      },
+      {
+        "city": "ENTRERRÍOS",
+        "code": "05264"
+      },
+      {
+        "city": "ENVIGADO",
+        "code": "05266"
+      },
+      {
+        "city": "FREDONIA",
+        "code": "05282"
+      },
+      {
+        "city": "FRONTINO",
+        "code": "05284"
+      },
+      {
+        "city": "GIRALDO",
+        "code": "05306"
+      },
+      {
+        "city": "GIRARDOTA",
+        "code": "05308"
+      },
+      {
+        "city": "GÓMEZ PLATA",
+        "code": "05310"
+      },
+      {
+        "city": "GRANADA",
+        "code": "05313"
+      },
+      {
+        "city": "GUADALUPE",
+        "code": "05315"
+      },
+      {
+        "city": "GUARNE",
+        "code": "05318"
+      },
+      {
+        "city": "GUATAPÉ",
+        "code": "05321"
+      },
+      {
+        "city": "HELICONIA",
+        "code": "05347"
+      },
+      {
+        "city": "HISPANIA",
+        "code": "05353"
+      },
+      {
+        "city": "ITAGÜÍ",
+        "code": "05360"
+      },
+      {
+        "city": "ITUANGO",
+        "code": "05361"
+      },
+      {
+        "city": "JARDÍN",
+        "code": "05364"
+      },
+      {
+        "city": "JERICÓ",
+        "code": "05368"
+      },
+      {
+        "city": "LA CEJA",
+        "code": "05376"
+      },
+      {
+        "city": "LA ESTRELLA",
+        "code": "05380"
+      },
+      {
+        "city": "LA PINTADA",
+        "code": "05390"
+      },
+      {
+        "city": "LA UNIÓN",
+        "code": "05400"
+      },
+      {
+        "city": "LIBORINA",
+        "code": "05411"
+      },
+      {
+        "city": "MACEO",
+        "code": "05425"
+      },
+      {
+        "city": "MARINILLA",
+        "code": "05440"
+      },
+      {
+        "city": "MEDELLÍN",
+        "code": "05001"
+      },
+      {
+        "city": "MONTEBELLO",
+        "code": "05467"
+      },
+      {
+        "city": "MURINDÓ",
+        "code": "05475"
+      },
+      {
+        "city": "MUTATÁ",
+        "code": "05480"
+      },
+      {
+        "city": "NARIÑO",
+        "code": "05483"
+      },
+      {
+        "city": "NECHÍ",
+        "code": "05495"
+      },
+      {
+        "city": "NECOCLÍ",
+        "code": "05490"
+      },
+      {
+        "city": "OLAYA",
+        "code": "05501"
+      },
+      {
+        "city": "PEÑOL",
+        "code": "05541"
+      },
+      {
+        "city": "PEQUE",
+        "code": "05543"
+      },
+      {
+        "city": "PUEBLORRICO",
+        "code": "05576"
+      },
+      {
+        "city": "PUERTO BERRÍO",
+        "code": "05579"
+      },
+      {
+        "city": "PUERTO NARE",
+        "code": "05585"
+      },
+      {
+        "city": "PUERTO TRIUNFO",
+        "code": "05591"
+      },
+      {
+        "city": "REMEDIOS",
+        "code": "05604"
+      },
+      {
+        "city": "RETIRO",
+        "code": "05607"
+      },
+      {
+        "city": "RIONEGRO",
+        "code": "05615"
+      },
+      {
+        "city": "SABANALARGA",
+        "code": "05628"
+      },
+      {
+        "city": "SABANETA",
+        "code": "05631"
+      },
+      {
+        "city": "SALGAR",
+        "code": "05642"
+      },
+      {
+        "city": "SAN ANDRÉS DE CUERQUÍA",
+        "code": "05647"
+      },
+      {
+        "city": "SAN CARLOS",
+        "code": "05649"
+      },
+      {
+        "city": "SAN FRANCISCO",
+        "code": "05652"
+      },
+      {
+        "city": "SAN JERÓNIMO",
+        "code": "05656"
+      },
+      {
+        "city": "SAN JOSÉ DE LA MONTAÑA",
+        "code": "05658"
+      },
+      {
+        "city": "SAN JUAN DE URABÁ",
+        "code": "05659"
+      },
+      {
+        "city": "SAN LUIS",
+        "code": "05660"
+      },
+      {
+        "city": "SAN PEDRO DE LOS MILAGROS",
+        "code": "05664"
+      },
+      {
+        "city": "SAN PEDRO DE URABÁ",
+        "code": "05665"
+      },
+      {
+        "city": "SAN RAFAEL",
+        "code": "05667"
+      },
+      {
+        "city": "SAN ROQUE",
+        "code": "05670"
+      },
+      {
+        "city": "SAN VICENTE FERRER",
+        "code": "05674"
+      },
+      {
+        "city": "SANTA BÁRBARA",
+        "code": "05679"
+      },
+      {
+        "city": "SANTA FÉ DE ANTIOQUIA",
+        "code": "05042"
+      },
+      {
+        "city": "SANTA ROSA DE OSOS",
+        "code": "05686"
+      },
+      {
+        "city": "SANTO DOMINGO",
+        "code": "05690"
+      },
+      {
+        "city": "SEGOVIA",
+        "code": "05736"
+      },
+      {
+        "city": "SONSÓN",
+        "code": "05756"
+      },
+      {
+        "city": "SOPETRÁN",
+        "code": "05761"
+      },
+      {
+        "city": "TÁMESIS",
+        "code": "05789"
+      },
+      {
+        "city": "TARAZÁ",
+        "code": "05790"
+      },
+      {
+        "city": "TARSO",
+        "code": "05792"
+      },
+      {
+        "city": "TITIRIBÍ",
+        "code": "05809"
+      },
+      {
+        "city": "TOLEDO",
+        "code": "05819"
+      },
+      {
+        "city": "TURBO",
+        "code": "05837"
+      },
+      {
+        "city": "URAMITA",
+        "code": "05842"
+      },
+      {
+        "city": "URRAO",
+        "code": "05847"
+      },
+      {
+        "city": "VALDIVIA",
+        "code": "05854"
+      },
+      {
+        "city": "VALPARAÍSO",
+        "code": "05856"
+      },
+      {
+        "city": "VEGACHÍ",
+        "code": "05858"
+      },
+      {
+        "city": "VENECIA",
+        "code": "05861"
+      },
+      {
+        "city": "VIGÍA DEL FUERTE",
+        "code": "05873"
+      },
+      {
+        "city": "YALÍ",
+        "code": "05885"
+      },
+      {
+        "city": "YARUMAL",
+        "code": "05887"
+      },
+      {
+        "city": "YOLOMBÓ",
+        "code": "05890"
+      },
+      {
+        "city": "YONDÓ",
+        "code": "05893"
+      },
+      {
+        "city": "ZARAGOZA",
+        "code": "05895"
+      }
+    ]
+  },
+  {
+    "region": "Arauca",
+    "code": "81",
+    "cities": [
+      {
+        "city": "ARAUCA",
+        "code": "81001"
+      },
+      {
+        "city": "ARAUQUITA",
+        "code": "81065"
+      },
+      {
+        "city": "CRAVO NORTE",
+        "code": "81220"
+      },
+      {
+        "city": "FORTUL",
+        "code": "81300"
+      },
+      {
+        "city": "PUERTO RONDÓN",
+        "code": "81591"
+      },
+      {
+        "city": "SARAVENA",
+        "code": "81736"
+      },
+      {
+        "city": "TAME",
+        "code": "81794"
+      }
+    ]
+  },
+  {
+    "region": "Atlántico",
+    "code": "8",
+    "cities": [
+      {
+        "city": "BARANOA",
+        "code": "08078"
+      },
+      {
+        "city": "BARRANQUILLA",
+        "code": "08001"
+      },
+      {
+        "city": "CAMPO DE LA CRUZ",
+        "code": "08137"
+      },
+      {
+        "city": "CANDELARIA",
+        "code": "08141"
+      },
+      {
+        "city": "GALAPA",
+        "code": "08296"
+      },
+      {
+        "city": "JUAN DE ACOSTA",
+        "code": "08372"
+      },
+      {
+        "city": "LURUACO",
+        "code": "08421"
+      },
+      {
+        "city": "MALAMBO",
+        "code": "08433"
+      },
+      {
+        "city": "MANATÍ",
+        "code": "08436"
+      },
+      {
+        "city": "PALMAR DE VARELA",
+        "code": "08520"
+      },
+      {
+        "city": "PIOJÓ",
+        "code": "08549"
+      },
+      {
+        "city": "POLONUEVO",
+        "code": "08558"
+      },
+      {
+        "city": "PONEDERA",
+        "code": "08560"
+      },
+      {
+        "city": "PUERTO COLOMBIA",
+        "code": "08573"
+      },
+      {
+        "city": "REPELÓN",
+        "code": "08606"
+      },
+      {
+        "city": "SABANAGRANDE",
+        "code": "08634"
+      },
+      {
+        "city": "SABANALARGA",
+        "code": "08638"
+      },
+      {
+        "city": "SANTA LUCÍA",
+        "code": "08675"
+      },
+      {
+        "city": "SANTO TOMÁS",
+        "code": "08685"
+      },
+      {
+        "city": "SOLEDAD",
+        "code": "08758"
+      },
+      {
+        "city": "SUAN",
+        "code": "08770"
+      },
+      {
+        "city": "TUBARÁ",
+        "code": "08832"
+      },
+      {
+        "city": "USIACURÍ",
+        "code": "08849"
+      }
+    ]
+  },
+  {
+    "region": "Bogotá D.C.",
+    "code": "11",
+    "cities": [
+      {
+        "city": "BOGOTÁ, D.C.",
+        "code": "11001"
+      }
+    ]
+  },
+  {
+    "region": "Bolívar",
+    "code": "13",
+    "cities": [
+      {
+        "city": "ACHÍ",
+        "code": "13006"
+      },
+      {
+        "city": "ALTOS DEL ROSARIO",
+        "code": "13030"
+      },
+      {
+        "city": "ARENAL",
+        "code": "13042"
+      },
+      {
+        "city": "ARJONA",
+        "code": "13052"
+      },
+      {
+        "city": "ARROYOHONDO",
+        "code": "13062"
+      },
+      {
+        "city": "BARRANCO DE LOBA",
+        "code": "13074"
+      },
+      {
+        "city": "CALAMAR",
+        "code": "13140"
+      },
+      {
+        "city": "CANTAGALLO",
+        "code": "13160"
+      },
+      {
+        "city": "CARTAGENA DE INDIAS",
+        "code": "13001"
+      },
+      {
+        "city": "CICUCO",
+        "code": "13188"
+      },
+      {
+        "city": "CLEMENCIA",
+        "code": "13222"
+      },
+      {
+        "city": "CÓRDOBA",
+        "code": "13212"
+      },
+      {
+        "city": "EL CARMEN DE BOLÍVAR",
+        "code": "13244"
+      },
+      {
+        "city": "EL GUAMO",
+        "code": "13248"
+      },
+      {
+        "city": "EL PEÑÓN",
+        "code": "13268"
+      },
+      {
+        "city": "HATILLO DE LOBA",
+        "code": "13300"
+      },
+      {
+        "city": "MAGANGUÉ",
+        "code": "13430"
+      },
+      {
+        "city": "MAHATES",
+        "code": "13433"
+      },
+      {
+        "city": "MARGARITA",
+        "code": "13440"
+      },
+      {
+        "city": "MARÍA LA BAJA",
+        "code": "13442"
+      },
+      {
+        "city": "MOMPÓS",
+        "code": "13468"
+      },
+      {
+        "city": "MONTECRISTO",
+        "code": "13458"
+      },
+      {
+        "city": "MORALES",
+        "code": "13473"
+      },
+      {
+        "city": "NOROSÍ",
+        "code": "13490"
+      },
+      {
+        "city": "PINILLOS",
+        "code": "13549"
+      },
+      {
+        "city": "REGIDOR",
+        "code": "13580"
+      },
+      {
+        "city": "RÍO VIEJO",
+        "code": "13600"
+      },
+      {
+        "city": "SAN CRISTÓBAL",
+        "code": "13620"
+      },
+      {
+        "city": "SAN ESTANISLAO",
+        "code": "13647"
+      },
+      {
+        "city": "SAN FERNANDO",
+        "code": "13650"
+      },
+      {
+        "city": "SAN JACINTO",
+        "code": "13654"
+      },
+      {
+        "city": "SAN JACINTO DEL CAUCA",
+        "code": "13655"
+      },
+      {
+        "city": "SAN JUAN NEPOMUCENO",
+        "code": "13657"
+      },
+      {
+        "city": "SAN MARTÍN DE LOBA",
+        "code": "13667"
+      },
+      {
+        "city": "SAN PABLO SUR",
+        "code": "13670"
+      },
+      {
+        "city": "SANTA CATALINA",
+        "code": "13673"
+      },
+      {
+        "city": "SANTA ROSA DE LIMA",
+        "code": "13683"
+      },
+      {
+        "city": "SANTA ROSA DEL SUR",
+        "code": "13688"
+      },
+      {
+        "city": "SIMITÍ",
+        "code": "13744"
+      },
+      {
+        "city": "SOPLAVIENTO",
+        "code": "13760"
+      },
+      {
+        "city": "TALAIGUA NUEVO",
+        "code": "13780"
+      },
+      {
+        "city": "TIQUISIO",
+        "code": "13810"
+      },
+      {
+        "city": "TURBACO",
+        "code": "13836"
+      },
+      {
+        "city": "TURBANÁ",
+        "code": "13838"
+      },
+      {
+        "city": "VILLANUEVA",
+        "code": "13873"
+      },
+      {
+        "city": "ZAMBRANO",
+        "code": "13894"
+      }
+    ]
+  },
+  {
+    "region": "Boyacá",
+    "code": "15",
+    "cities": [
+      {
+        "city": "ALMEIDA",
+        "code": "15022"
+      },
+      {
+        "city": "AQUITANIA",
+        "code": "15047"
+      },
+      {
+        "city": "ARCABUCO",
+        "code": "15051"
+      },
+      {
+        "city": "BELÉN",
+        "code": "15087"
+      },
+      {
+        "city": "BERBEO",
+        "code": "15090"
+      },
+      {
+        "city": "BETÉITIVA",
+        "code": "15092"
+      },
+      {
+        "city": "BOAVITA",
+        "code": "15097"
+      },
+      {
+        "city": "BOYACÁ",
+        "code": "15104"
+      },
+      {
+        "city": "BRICEÑO",
+        "code": "15106"
+      },
+      {
+        "city": "BUENAVISTA",
+        "code": "15109"
+      },
+      {
+        "city": "BUSBANZÁ",
+        "code": "15114"
+      },
+      {
+        "city": "CALDAS",
+        "code": "15131"
+      },
+      {
+        "city": "CAMPOHERMOSO",
+        "code": "15135"
+      },
+      {
+        "city": "CERINZA",
+        "code": "15162"
+      },
+      {
+        "city": "CHINAVITA",
+        "code": "15172"
+      },
+      {
+        "city": "CHIQUINQUIRÁ",
+        "code": "15176"
+      },
+      {
+        "city": "CHÍQUIZA",
+        "code": "15232"
+      },
+      {
+        "city": "CHISCAS",
+        "code": "15180"
+      },
+      {
+        "city": "CHITA",
+        "code": "15183"
+      },
+      {
+        "city": "CHITARAQUE",
+        "code": "15185"
+      },
+      {
+        "city": "CHIVATÁ",
+        "code": "15187"
+      },
+      {
+        "city": "CHIVOR",
+        "code": "15236"
+      },
+      {
+        "city": "CIÉNEGA",
+        "code": "15189"
+      },
+      {
+        "city": "CÓMBITA",
+        "code": "15204"
+      },
+      {
+        "city": "COPER",
+        "code": "15212"
+      },
+      {
+        "city": "CORRALES",
+        "code": "15215"
+      },
+      {
+        "city": "COVARACHÍA",
+        "code": "15218"
+      },
+      {
+        "city": "CUBARÁ",
+        "code": "15223"
+      },
+      {
+        "city": "CUCAITA",
+        "code": "15224"
+      },
+      {
+        "city": "CUÍTIVA",
+        "code": "15226"
+      },
+      {
+        "city": "DUITAMA",
+        "code": "15238"
+      },
+      {
+        "city": "EL COCUY",
+        "code": "15244"
+      },
+      {
+        "city": "EL ESPINO",
+        "code": "15248"
+      },
+      {
+        "city": "FIRAVITOBA",
+        "code": "15272"
+      },
+      {
+        "city": "FLORESTA",
+        "code": "15276"
+      },
+      {
+        "city": "GACHANTIVÁ",
+        "code": "15293"
+      },
+      {
+        "city": "GÁMEZA",
+        "code": "15296"
+      },
+      {
+        "city": "GARAGOA",
+        "code": "15299"
+      },
+      {
+        "city": "GUACAMAYAS",
+        "code": "15317"
+      },
+      {
+        "city": "GUATEQUE",
+        "code": "15322"
+      },
+      {
+        "city": "GUAYATÁ",
+        "code": "15325"
+      },
+      {
+        "city": "GÜICÁN DE LA SIERRA",
+        "code": "15332"
+      },
+      {
+        "city": "IZA",
+        "code": "15362"
+      },
+      {
+        "city": "JENESANO",
+        "code": "15367"
+      },
+      {
+        "city": "JERICÓ",
+        "code": "15368"
+      },
+      {
+        "city": "LA CAPILLA",
+        "code": "15380"
+      },
+      {
+        "city": "LA UVITA",
+        "code": "15403"
+      },
+      {
+        "city": "LA VICTORIA",
+        "code": "15401"
+      },
+      {
+        "city": "LABRANZAGRANDE",
+        "code": "15377"
+      },
+      {
+        "city": "MACANAL",
+        "code": "15425"
+      },
+      {
+        "city": "MARIPÍ",
+        "code": "15442"
+      },
+      {
+        "city": "MIRAFLORES",
+        "code": "15455"
+      },
+      {
+        "city": "MONGUA",
+        "code": "15464"
+      },
+      {
+        "city": "MONGUÍ",
+        "code": "15466"
+      },
+      {
+        "city": "MONIQUIRÁ",
+        "code": "15469"
+      },
+      {
+        "city": "MOTAVITA",
+        "code": "15476"
+      },
+      {
+        "city": "MUZO",
+        "code": "15480"
+      },
+      {
+        "city": "NOBSA",
+        "code": "15491"
+      },
+      {
+        "city": "NUEVO COLÓN",
+        "code": "15494"
+      },
+      {
+        "city": "OICATÁ",
+        "code": "15500"
+      },
+      {
+        "city": "OTANCHE",
+        "code": "15507"
+      },
+      {
+        "city": "PACHAVITA",
+        "code": "15511"
+      },
+      {
+        "city": "PÁEZ",
+        "code": "15514"
+      },
+      {
+        "city": "PAIPA",
+        "code": "15516"
+      },
+      {
+        "city": "PAJARITO",
+        "code": "15518"
+      },
+      {
+        "city": "PANQUEBA",
+        "code": "15522"
+      },
+      {
+        "city": "PAUNA",
+        "code": "15531"
+      },
+      {
+        "city": "PAYA",
+        "code": "15533"
+      },
+      {
+        "city": "PAZ DE RÍO",
+        "code": "15537"
+      },
+      {
+        "city": "PESCA",
+        "code": "15542"
+      },
+      {
+        "city": "PISBA",
+        "code": "15550"
+      },
+      {
+        "city": "PUERTO BOYACÁ",
+        "code": "15572"
+      },
+      {
+        "city": "QUÍPAMA",
+        "code": "15580"
+      },
+      {
+        "city": "RAMIRIQUÍ",
+        "code": "15599"
+      },
+      {
+        "city": "RÁQUIRA",
+        "code": "15600"
+      },
+      {
+        "city": "RONDÓN",
+        "code": "15621"
+      },
+      {
+        "city": "SABOYÁ",
+        "code": "15632"
+      },
+      {
+        "city": "SÁCHICA",
+        "code": "15638"
+      },
+      {
+        "city": "SAMACÁ",
+        "code": "15646"
+      },
+      {
+        "city": "SAN EDUARDO",
+        "code": "15660"
+      },
+      {
+        "city": "SAN JOSÉ DE PARE",
+        "code": "15664"
+      },
+      {
+        "city": "SAN LUIS DE GACENO",
+        "code": "15667"
+      },
+      {
+        "city": "SAN MATEO",
+        "code": "15673"
+      },
+      {
+        "city": "SAN MIGUEL DE SEMA",
+        "code": "15676"
+      },
+      {
+        "city": "SAN PABLO DE BORBUR",
+        "code": "15681"
+      },
+      {
+        "city": "SANTA MARÍA",
+        "code": "15690"
+      },
+      {
+        "city": "SANTA ROSA DE VITERBO",
+        "code": "15693"
+      },
+      {
+        "city": "SANTA SOFÍA",
+        "code": "15696"
+      },
+      {
+        "city": "SANTANA",
+        "code": "15686"
+      },
+      {
+        "city": "SATIVANORTE",
+        "code": "15720"
+      },
+      {
+        "city": "SATIVASUR",
+        "code": "15723"
+      },
+      {
+        "city": "SIACHOQUE",
+        "code": "15740"
+      },
+      {
+        "city": "SOATÁ",
+        "code": "15753"
+      },
+      {
+        "city": "SOCHA",
+        "code": "15757"
+      },
+      {
+        "city": "SOCOTÁ",
+        "code": "15755"
+      },
+      {
+        "city": "SOGAMOSO",
+        "code": "15759"
+      },
+      {
+        "city": "SOMONDOCO",
+        "code": "15761"
+      },
+      {
+        "city": "SORA",
+        "code": "15762"
+      },
+      {
+        "city": "SORACÁ",
+        "code": "15764"
+      },
+      {
+        "city": "SOTAQUIRÁ",
+        "code": "15763"
+      },
+      {
+        "city": "SUSACÓN",
+        "code": "15774"
+      },
+      {
+        "city": "SUTAMARCHÁN",
+        "code": "15776"
+      },
+      {
+        "city": "SUTATENZA",
+        "code": "15778"
+      },
+      {
+        "city": "TASCO",
+        "code": "15790"
+      },
+      {
+        "city": "TENZA",
+        "code": "15798"
+      },
+      {
+        "city": "TIBANÁ",
+        "code": "15804"
+      },
+      {
+        "city": "TIBASOSA",
+        "code": "15806"
+      },
+      {
+        "city": "TINJACÁ",
+        "code": "15808"
+      },
+      {
+        "city": "TIPACOQUE",
+        "code": "15810"
+      },
+      {
+        "city": "TOCA",
+        "code": "15814"
+      },
+      {
+        "city": "TOGÜÍ",
+        "code": "15816"
+      },
+      {
+        "city": "TÓPAGA",
+        "code": "15820"
+      },
+      {
+        "city": "TOTA",
+        "code": "15822"
+      },
+      {
+        "city": "TUNJA",
+        "code": "15001"
+      },
+      {
+        "city": "TUNUNGUÁ",
+        "code": "15832"
+      },
+      {
+        "city": "TURMEQUÉ",
+        "code": "15835"
+      },
+      {
+        "city": "TUTA",
+        "code": "15837"
+      },
+      {
+        "city": "TUTAZÁ",
+        "code": "15839"
+      },
+      {
+        "city": "ÚMBITA",
+        "code": "15842"
+      },
+      {
+        "city": "VENTAQUEMADA",
+        "code": "15861"
+      },
+      {
+        "city": "VILLA DE LEYVA",
+        "code": "15407"
+      },
+      {
+        "city": "VIRACACHÁ",
+        "code": "15879"
+      },
+      {
+        "city": "ZETAQUIRA",
+        "code": "15897"
+      }
+    ]
+  },
+  {
+    "region": "Caldas",
+    "code": "17",
+    "cities": [
+      {
+        "city": "AGUADAS",
+        "code": "17013"
+      },
+      {
+        "city": "ANSERMA",
+        "code": "17042"
+      },
+      {
+        "city": "ARANZAZU",
+        "code": "17050"
+      },
+      {
+        "city": "BELALCÁZAR",
+        "code": "17088"
+      },
+      {
+        "city": "CHINCHINÁ",
+        "code": "17174"
+      },
+      {
+        "city": "FILADELFIA",
+        "code": "17272"
+      },
+      {
+        "city": "LA DORADA",
+        "code": "17380"
+      },
+      {
+        "city": "LA MERCED",
+        "code": "17388"
+      },
+      {
+        "city": "MANIZALES",
+        "code": "17001"
+      },
+      {
+        "city": "MANZANARES",
+        "code": "17433"
+      },
+      {
+        "city": "MARMATO",
+        "code": "17442"
+      },
+      {
+        "city": "MARQUETALIA",
+        "code": "17444"
+      },
+      {
+        "city": "MARULANDA",
+        "code": "17446"
+      },
+      {
+        "city": "NEIRA",
+        "code": "17486"
+      },
+      {
+        "city": "NORCASIA",
+        "code": "17495"
+      },
+      {
+        "city": "PÁCORA",
+        "code": "17513"
+      },
+      {
+        "city": "PALESTINA",
+        "code": "17524"
+      },
+      {
+        "city": "PENSILVANIA",
+        "code": "17541"
+      },
+      {
+        "city": "RIOSUCIO",
+        "code": "17614"
+      },
+      {
+        "city": "RISARALDA",
+        "code": "17616"
+      },
+      {
+        "city": "SALAMINA",
+        "code": "17653"
+      },
+      {
+        "city": "SAMANÁ",
+        "code": "17662"
+      },
+      {
+        "city": "SAN JOSÉ",
+        "code": "17665"
+      },
+      {
+        "city": "SUPÍA",
+        "code": "17777"
+      },
+      {
+        "city": "VICTORIA",
+        "code": "17867"
+      },
+      {
+        "city": "VILLAMARÍA",
+        "code": "17873"
+      },
+      {
+        "city": "VITERBO",
+        "code": "17877"
+      }
+    ]
+  },
+  {
+    "region": "Caquetá",
+    "code": "18",
+    "cities": [
+      {
+        "city": "ALBANIA",
+        "code": "18029"
+      },
+      {
+        "city": "BELÉN DE LOS ANDAQUÍES",
+        "code": "18094"
+      },
+      {
+        "city": "CARTAGENA DEL CHAIRÁ",
+        "code": "18150"
+      },
+      {
+        "city": "CURILLO",
+        "code": "18205"
+      },
+      {
+        "city": "EL DONCELLO",
+        "code": "18247"
+      },
+      {
+        "city": "EL PAUJÍL",
+        "code": "18256"
+      },
+      {
+        "city": "FLORENCIA",
+        "code": "18001"
+      },
+      {
+        "city": "LA MONTAÑITA",
+        "code": "18410"
+      },
+      {
+        "city": "MILÁN",
+        "code": "18460"
+      },
+      {
+        "city": "MORELIA",
+        "code": "18479"
+      },
+      {
+        "city": "PUERTO RICO",
+        "code": "18592"
+      },
+      {
+        "city": "SAN JOSÉ DEL FRAGUA",
+        "code": "18610"
+      },
+      {
+        "city": "SAN VICENTE DEL CAGUÁN",
+        "code": "18753"
+      },
+      {
+        "city": "SOLANO",
+        "code": "18756"
+      },
+      {
+        "city": "SOLITA",
+        "code": "18785"
+      },
+      {
+        "city": "VALPARAÍSO",
+        "code": "18860"
+      }
+    ]
+  },
+  {
+    "region": "Casanare",
+    "code": "85",
+    "cities": [
+      {
+        "city": "AGUAZUL",
+        "code": "85010"
+      },
+      {
+        "city": "CHÁMEZA",
+        "code": "85015"
+      },
+      {
+        "city": "HATO COROZAL",
+        "code": "85125"
+      },
+      {
+        "city": "LA SALINA",
+        "code": "85136"
+      },
+      {
+        "city": "MANÍ",
+        "code": "85139"
+      },
+      {
+        "city": "MONTERREY",
+        "code": "85162"
+      },
+      {
+        "city": "NUNCHÍA",
+        "code": "85225"
+      },
+      {
+        "city": "OROCUÉ",
+        "code": "85230"
+      },
+      {
+        "city": "PAZ DE ARIPORO",
+        "code": "85250"
+      },
+      {
+        "city": "PORE",
+        "code": "85263"
+      },
+      {
+        "city": "RECETOR",
+        "code": "85279"
+      },
+      {
+        "city": "SABANALARGA",
+        "code": "85300"
+      },
+      {
+        "city": "SÁCAMA",
+        "code": "85315"
+      },
+      {
+        "city": "SAN LUIS DE PALENQUE",
+        "code": "85325"
+      },
+      {
+        "city": "TÁMARA",
+        "code": "85400"
+      },
+      {
+        "city": "TAURAMENA",
+        "code": "85410"
+      },
+      {
+        "city": "TRINIDAD",
+        "code": "85430"
+      },
+      {
+        "city": "VILLANUEVA",
+        "code": "85440"
+      },
+      {
+        "city": "YOPAL",
+        "code": "85001"
+      }
+    ]
+  },
+  {
+    "region": "Cauca",
+    "code": "19",
+    "cities": [
+      {
+        "city": "ALMAGUER",
+        "code": "19022"
+      },
+      {
+        "city": "ARGELIA",
+        "code": "19050"
+      },
+      {
+        "city": "BALBOA",
+        "code": "19075"
+      },
+      {
+        "city": "BOLÍVAR",
+        "code": "19100"
+      },
+      {
+        "city": "BUENOS AIRES",
+        "code": "19110"
+      },
+      {
+        "city": "CAJIBÍO",
+        "code": "19130"
+      },
+      {
+        "city": "CALDONO",
+        "code": "19137"
+      },
+      {
+        "city": "CALOTO",
+        "code": "19142"
+      },
+      {
+        "city": "CORINTO",
+        "code": "19212"
+      },
+      {
+        "city": "EL TAMBO",
+        "code": "19256"
+      },
+      {
+        "city": "FLORENCIA",
+        "code": "19290"
+      },
+      {
+        "city": "GUACHENÉ",
+        "code": "19300"
+      },
+      {
+        "city": "GUAPÍ",
+        "code": "19318"
+      },
+      {
+        "city": "INZÁ",
+        "code": "19355"
+      },
+      {
+        "city": "JAMBALÓ",
+        "code": "19364"
+      },
+      {
+        "city": "LA SIERRA",
+        "code": "19392"
+      },
+      {
+        "city": "LA VEGA",
+        "code": "19397"
+      },
+      {
+        "city": "LÓPEZ DE MICAY",
+        "code": "19418"
+      },
+      {
+        "city": "MERCADERES",
+        "code": "19450"
+      },
+      {
+        "city": "MIRANDA",
+        "code": "19455"
+      },
+      {
+        "city": "MORALES",
+        "code": "19473"
+      },
+      {
+        "city": "PADILLA",
+        "code": "19513"
+      },
+      {
+        "city": "PÁEZ - BELALCAZAR",
+        "code": "19517"
+      },
+      {
+        "city": "PATÍA – EL BORDO",
+        "code": "19532"
+      },
+      {
+        "city": "PIAMONTE",
+        "code": "19533"
+      },
+      {
+        "city": "PIENDAMÓ – TUNÍA",
+        "code": "19548"
+      },
+      {
+        "city": "POPAYÁN",
+        "code": "19001"
+      },
+      {
+        "city": "PUERTO TEJADA",
+        "code": "19573"
+      },
+      {
+        "city": "PURACÉ - COCONUCO",
+        "code": "19585"
+      },
+      {
+        "city": "ROSAS",
+        "code": "19622"
+      },
+      {
+        "city": "SAN SEBASTIÁN",
+        "code": "19693"
+      },
+      {
+        "city": "SANTA ROSA",
+        "code": "19701"
+      },
+      {
+        "city": "SANTANDER DE QUILICHAO",
+        "code": "19698"
+      },
+      {
+        "city": "SILVIA",
+        "code": "19743"
+      },
+      {
+        "city": "SOTARA",
+        "code": "19760"
+      },
+      {
+        "city": "SUÁREZ",
+        "code": "19780"
+      },
+      {
+        "city": "SUCRE",
+        "code": "19785"
+      },
+      {
+        "city": "TIMBÍO",
+        "code": "19807"
+      },
+      {
+        "city": "TIMBIQUÍ",
+        "code": "19809"
+      },
+      {
+        "city": "TORIBÍO",
+        "code": "19821"
+      },
+      {
+        "city": "TOTORÓ",
+        "code": "19824"
+      },
+      {
+        "city": "VILLA RICA",
+        "code": "19845"
+      }
+    ]
+  },
+  {
+    "region": "Cesar",
+    "code": "20",
+    "cities": [
+      {
+        "city": "AGUACHICA",
+        "code": "20011"
+      },
+      {
+        "city": "AGUSTÍN CODAZZI",
+        "code": "20013"
+      },
+      {
+        "city": "ASTREA",
+        "code": "20032"
+      },
+      {
+        "city": "BECERRIL",
+        "code": "20045"
+      },
+      {
+        "city": "BOSCONIA",
+        "code": "20060"
+      },
+      {
+        "city": "CHIMICHAGUA",
+        "code": "20175"
+      },
+      {
+        "city": "CHIRIGUANÁ",
+        "code": "20178"
+      },
+      {
+        "city": "CURUMANÍ",
+        "code": "20228"
+      },
+      {
+        "city": "EL COPEY",
+        "code": "20238"
+      },
+      {
+        "city": "EL PASO",
+        "code": "20250"
+      },
+      {
+        "city": "GAMARRA",
+        "code": "20295"
+      },
+      {
+        "city": "GONZÁLEZ",
+        "code": "20310"
+      },
+      {
+        "city": "LA GLORIA",
+        "code": "20383"
+      },
+      {
+        "city": "LA JAGUA DE IBIRICO",
+        "code": "20400"
+      },
+      {
+        "city": "LA PAZ",
+        "code": "20621"
+      },
+      {
+        "city": "MANAURE BALCÓN DEL CESAR",
+        "code": "20443"
+      },
+      {
+        "city": "PAILITAS",
+        "code": "20517"
+      },
+      {
+        "city": "PELAYA",
+        "code": "20550"
+      },
+      {
+        "city": "PUEBLO BELLO",
+        "code": "20570"
+      },
+      {
+        "city": "RÍO DE ORO",
+        "code": "20614"
+      },
+      {
+        "city": "SAN ALBERTO",
+        "code": "20710"
+      },
+      {
+        "city": "SAN DIEGO",
+        "code": "20750"
+      },
+      {
+        "city": "SAN MARTÍN",
+        "code": "20770"
+      },
+      {
+        "city": "TAMALAMEQUE",
+        "code": "20787"
+      },
+      {
+        "city": "VALLEDUPAR",
+        "code": "20001"
+      }
+    ]
+  },
+  {
+    "region": "Chocó",
+    "code": "27",
+    "cities": [
+      {
+        "city": "ACANDÍ",
+        "code": "27006"
+      },
+      {
+        "city": "ALTO BAUDÓ (PIE DE PATÓ)",
+        "code": "27025"
+      },
+      {
+        "city": "ATRATO (YUTO)",
+        "code": "27050"
+      },
+      {
+        "city": "BAGADÓ",
+        "code": "27073"
+      },
+      {
+        "city": "BAHÍA SOLANO (MUTIS)",
+        "code": "27075"
+      },
+      {
+        "city": "BAJO BAUDÓ (PIZARRO)",
+        "code": "27077"
+      },
+      {
+        "city": "BOJAYÁ (BELLA VISTA)",
+        "code": "27099"
+      },
+      {
+        "city": "CARMEN DEL DARIÉN",
+        "code": "27150"
+      },
+      {
+        "city": "CÉRTEGUI",
+        "code": "27160"
+      },
+      {
+        "city": "CONDOTO",
+        "code": "27205"
+      },
+      {
+        "city": "EL CANTÓN DEL SAN PABLO",
+        "code": "27135"
+      },
+      {
+        "city": "EL CARMEN DE ATRATO",
+        "code": "27245"
+      },
+      {
+        "city": "EL LITORAL DEL SAN JUAN",
+        "code": "27250"
+      },
+      {
+        "city": "ISTMINA",
+        "code": "27361"
+      },
+      {
+        "city": "JURADÓ",
+        "code": "27372"
+      },
+      {
+        "city": "LLORÓ",
+        "code": "27413"
+      },
+      {
+        "city": "MEDIO ATRATO (BETÉ)",
+        "code": "27425"
+      },
+      {
+        "city": "MEDIO BAUDÓ",
+        "code": "27430"
+      },
+      {
+        "city": "MEDIO SAN JUAN (ANDAGOYA)",
+        "code": "27450"
+      },
+      {
+        "city": "NÓVITA",
+        "code": "27491"
+      },
+      {
+        "city": "NUQUÍ",
+        "code": "27495"
+      },
+      {
+        "city": "QUIBDÓ",
+        "code": "27001"
+      },
+      {
+        "city": "RÍO IRÓ (SANTA RITA)",
+        "code": "27580"
+      },
+      {
+        "city": "RÍO QUITO (PAIMADÓ)",
+        "code": "27600"
+      },
+      {
+        "city": "RIOSUCIO",
+        "code": "27615"
+      },
+      {
+        "city": "SAN JOSÉ DEL PALMAR",
+        "code": "27660"
+      },
+      {
+        "city": "SIPÍ",
+        "code": "27745"
+      },
+      {
+        "city": "TADÓ",
+        "code": "27787"
+      },
+      {
+        "city": "UNGUÍA",
+        "code": "27800"
+      },
+      {
+        "city": "UNIÓN PANAMERICANA (LAS ÁNIMAS)",
+        "code": "27810"
+      }
+    ]
+  },
+  {
+    "region": "Córdoba",
+    "code": "23",
+    "cities": [
+      {
+        "city": "AYAPEL",
+        "code": "23068"
+      },
+      {
+        "city": "BUENAVISTA",
+        "code": "23079"
+      },
+      {
+        "city": "CANALETE",
+        "code": "23090"
+      },
+      {
+        "city": "CERETÉ",
+        "code": "23162"
+      },
+      {
+        "city": "CHIMÁ",
+        "code": "23168"
+      },
+      {
+        "city": "CHINÚ",
+        "code": "23182"
+      },
+      {
+        "city": "CIÉNAGA DE ORO",
+        "code": "23189"
+      },
+      {
+        "city": "COTORRA",
+        "code": "23300"
+      },
+      {
+        "city": "LA APARTADA",
+        "code": "23350"
+      },
+      {
+        "city": "LORICA",
+        "code": "23417"
+      },
+      {
+        "city": "LOS CÓRDOBAS",
+        "code": "23419"
+      },
+      {
+        "city": "MOMIL",
+        "code": "23464"
+      },
+      {
+        "city": "MOÑITOS",
+        "code": "23500"
+      },
+      {
+        "city": "MONTELÍBANO",
+        "code": "23466"
+      },
+      {
+        "city": "MONTERÍA",
+        "code": "23001"
+      },
+      {
+        "city": "PLANETA RICA",
+        "code": "23555"
+      },
+      {
+        "city": "PUEBLO NUEVO",
+        "code": "23570"
+      },
+      {
+        "city": "PUERTO ESCONDIDO",
+        "code": "23574"
+      },
+      {
+        "city": "PUERTO LIBERTADOR",
+        "code": "23580"
+      },
+      {
+        "city": "PURÍSIMA DE LA CONCEPCIÓN",
+        "code": "23586"
+      },
+      {
+        "city": "SAHAGÚN",
+        "code": "23660"
+      },
+      {
+        "city": "SAN ANDRÉS DE SOTAVENTO",
+        "code": "23670"
+      },
+      {
+        "city": "SAN ANTERO",
+        "code": "23672"
+      },
+      {
+        "city": "SAN BERNARDO DEL VIENTO",
+        "code": "23675"
+      },
+      {
+        "city": "SAN CARLOS",
+        "code": "23678"
+      },
+      {
+        "city": "SAN JOSÉ DE URÉ",
+        "code": "23682"
+      },
+      {
+        "city": "SAN PELAYO",
+        "code": "23686"
+      },
+      {
+        "city": "TIERRALTA",
+        "code": "23807"
+      },
+      {
+        "city": "TUCHÍN",
+        "code": "23815"
+      },
+      {
+        "city": "VALENCIA",
+        "code": "23855"
+      }
+    ]
+  },
+  {
+    "region": "Cundinamarca",
+    "code": "25",
+    "cities": [
+      {
+        "city": "AGUA DE DIOS",
+        "code": "25001"
+      },
+      {
+        "city": "ALBÁN",
+        "code": "25019"
+      },
+      {
+        "city": "ANAPOIMA",
+        "code": "25035"
+      },
+      {
+        "city": "ANOLAIMA",
+        "code": "25040"
+      },
+      {
+        "city": "APULO",
+        "code": "25599"
+      },
+      {
+        "city": "ARBELÁEZ",
+        "code": "25053"
+      },
+      {
+        "city": "BELTRÁN",
+        "code": "25086"
+      },
+      {
+        "city": "BITUIMA",
+        "code": "25095"
+      },
+      {
+        "city": "BOJACÁ",
+        "code": "25099"
+      },
+      {
+        "city": "CABRERA",
+        "code": "25120"
+      },
+      {
+        "city": "CACHIPAY",
+        "code": "25123"
+      },
+      {
+        "city": "CAJICÁ",
+        "code": "25126"
+      },
+      {
+        "city": "CAPARRAPÍ",
+        "code": "25148"
+      },
+      {
+        "city": "CÁQUEZA",
+        "code": "25151"
+      },
+      {
+        "city": "CARMEN DE CARUPA",
+        "code": "25154"
+      },
+      {
+        "city": "CHAGUANÍ",
+        "code": "25168"
+      },
+      {
+        "city": "CHÍA",
+        "code": "25175"
+      },
+      {
+        "city": "CHIPAQUE",
+        "code": "25178"
+      },
+      {
+        "city": "CHOACHÍ",
+        "code": "25181"
+      },
+      {
+        "city": "CHOCONTÁ",
+        "code": "25183"
+      },
+      {
+        "city": "COGUA",
+        "code": "25200"
+      },
+      {
+        "city": "COTA",
+        "code": "25214"
+      },
+      {
+        "city": "CUCUNUBÁ",
+        "code": "25224"
+      },
+      {
+        "city": "EL COLEGIO",
+        "code": "25245"
+      },
+      {
+        "city": "EL PEÑÓN",
+        "code": "25258"
+      },
+      {
+        "city": "EL ROSAL",
+        "code": "25260"
+      },
+      {
+        "city": "FACATATIVÁ",
+        "code": "25269"
+      },
+      {
+        "city": "FÓMEQUE",
+        "code": "25279"
+      },
+      {
+        "city": "FOSCA",
+        "code": "25281"
+      },
+      {
+        "city": "FUNZA",
+        "code": "25286"
+      },
+      {
+        "city": "FÚQUENE",
+        "code": "25288"
+      },
+      {
+        "city": "FUSAGASUGÁ",
+        "code": "25290"
+      },
+      {
+        "city": "GACHALÁ",
+        "code": "25293"
+      },
+      {
+        "city": "GACHANCIPÁ",
+        "code": "25295"
+      },
+      {
+        "city": "GACHETÁ",
+        "code": "25297"
+      },
+      {
+        "city": "GAMA",
+        "code": "25299"
+      },
+      {
+        "city": "GIRARDOT",
+        "code": "25307"
+      },
+      {
+        "city": "GRANADA",
+        "code": "25312"
+      },
+      {
+        "city": "GUACHETÁ",
+        "code": "25317"
+      },
+      {
+        "city": "GUADUAS",
+        "code": "25320"
+      },
+      {
+        "city": "GUASCA",
+        "code": "25322"
+      },
+      {
+        "city": "GUATAQUÍ",
+        "code": "25324"
+      },
+      {
+        "city": "GUATAVITA",
+        "code": "25326"
+      },
+      {
+        "city": "GUAYABAL DE SÍQUIMA",
+        "code": "25328"
+      },
+      {
+        "city": "GUAYABETAL",
+        "code": "25335"
+      },
+      {
+        "city": "GUTIÉRREZ",
+        "code": "25339"
+      },
+      {
+        "city": "JERUSALÉN",
+        "code": "25368"
+      },
+      {
+        "city": "JUNÍN",
+        "code": "25372"
+      },
+      {
+        "city": "LA CALERA",
+        "code": "25377"
+      },
+      {
+        "city": "LA MESA",
+        "code": "25386"
+      },
+      {
+        "city": "LA PALMA",
+        "code": "25394"
+      },
+      {
+        "city": "LA PEÑA",
+        "code": "25398"
+      },
+      {
+        "city": "LA VEGA",
+        "code": "25402"
+      },
+      {
+        "city": "LENGUAZAQUE",
+        "code": "25407"
+      },
+      {
+        "city": "MACHETÁ",
+        "code": "25426"
+      },
+      {
+        "city": "MADRID",
+        "code": "25430"
+      },
+      {
+        "city": "MANTA",
+        "code": "25436"
+      },
+      {
+        "city": "MEDINA",
+        "code": "25438"
+      },
+      {
+        "city": "MOSQUERA",
+        "code": "25473"
+      },
+      {
+        "city": "NARIÑO",
+        "code": "25483"
+      },
+      {
+        "city": "NEMOCÓN",
+        "code": "25486"
+      },
+      {
+        "city": "NILO",
+        "code": "25488"
+      },
+      {
+        "city": "NIMAIMA",
+        "code": "25489"
+      },
+      {
+        "city": "NOCAIMA",
+        "code": "25491"
+      },
+      {
+        "city": "PACHO",
+        "code": "25513"
+      },
+      {
+        "city": "PAIME",
+        "code": "25518"
+      },
+      {
+        "city": "PANDI",
+        "code": "25524"
+      },
+      {
+        "city": "PARATEBUENO",
+        "code": "25530"
+      },
+      {
+        "city": "PASCA",
+        "code": "25535"
+      },
+      {
+        "city": "PUERTO SALGAR",
+        "code": "25572"
+      },
+      {
+        "city": "PULÍ",
+        "code": "25580"
+      },
+      {
+        "city": "QUEBRADANEGRA",
+        "code": "25592"
+      },
+      {
+        "city": "QUETAME",
+        "code": "25594"
+      },
+      {
+        "city": "QUIPILE",
+        "code": "25596"
+      },
+      {
+        "city": "RICAURTE",
+        "code": "25612"
+      },
+      {
+        "city": "SAN ANTONIO DEL TEQUENDAMA",
+        "code": "25645"
+      },
+      {
+        "city": "SAN BERNARDO",
+        "code": "25649"
+      },
+      {
+        "city": "SAN CAYETANO",
+        "code": "25653"
+      },
+      {
+        "city": "SAN FRANCISCO",
+        "code": "25658"
+      },
+      {
+        "city": "SAN JUAN DE RIOSECO",
+        "code": "25662"
+      },
+      {
+        "city": "SASAIMA",
+        "code": "25718"
+      },
+      {
+        "city": "SESQUILÉ",
+        "code": "25736"
+      },
+      {
+        "city": "SIBATÉ",
+        "code": "25740"
+      },
+      {
+        "city": "SILVANIA",
+        "code": "25743"
+      },
+      {
+        "city": "SIMIJACA",
+        "code": "25745"
+      },
+      {
+        "city": "SOACHA",
+        "code": "25754"
+      },
+      {
+        "city": "SOPÓ",
+        "code": "25758"
+      },
+      {
+        "city": "SUBACHOQUE",
+        "code": "25769"
+      },
+      {
+        "city": "SUESCA",
+        "code": "25772"
+      },
+      {
+        "city": "SUPATÁ",
+        "code": "25777"
+      },
+      {
+        "city": "SUSA",
+        "code": "25779"
+      },
+      {
+        "city": "SUTATAUSA",
+        "code": "25781"
+      },
+      {
+        "city": "TABIO",
+        "code": "25785"
+      },
+      {
+        "city": "TAUSA",
+        "code": "25793"
+      },
+      {
+        "city": "TENA",
+        "code": "25797"
+      },
+      {
+        "city": "TENJO",
+        "code": "25799"
+      },
+      {
+        "city": "TIBACUY",
+        "code": "25805"
+      },
+      {
+        "city": "TIBIRITA",
+        "code": "25807"
+      },
+      {
+        "city": "TOCAIMA",
+        "code": "25815"
+      },
+      {
+        "city": "TOCANCIPÁ",
+        "code": "25817"
+      },
+      {
+        "city": "TOPAIPÍ",
+        "code": "25823"
+      },
+      {
+        "city": "UBALÁ",
+        "code": "25839"
+      },
+      {
+        "city": "UBAQUE",
+        "code": "25841"
+      },
+      {
+        "city": "UNE",
+        "code": "25845"
+      },
+      {
+        "city": "ÚTICA",
+        "code": "25851"
+      },
+      {
+        "city": "VENECIA",
+        "code": "25506"
+      },
+      {
+        "city": "VERGARA",
+        "code": "25862"
+      },
+      {
+        "city": "VIANÍ",
+        "code": "25867"
+      },
+      {
+        "city": "VILLA DE SAN DIEGO DE UBATÉ",
+        "code": "25843"
+      },
+      {
+        "city": "VILLAGÓMEZ",
+        "code": "25871"
+      },
+      {
+        "city": "VILLAPINZÓN",
+        "code": "25873"
+      },
+      {
+        "city": "VILLETA",
+        "code": "25875"
+      },
+      {
+        "city": "VIOTÁ",
+        "code": "25878"
+      },
+      {
+        "city": "YACOPÍ",
+        "code": "25885"
+      },
+      {
+        "city": "ZIPACÓN",
+        "code": "25898"
+      },
+      {
+        "city": "ZIPAQUIRÁ",
+        "code": "25899"
+      }
+    ]
+  },
+  {
+    "region": "Guainía",
+    "code": "94",
+    "cities": [
+      {
+        "city": "BARRANCOMINAS",
+        "code": "94343"
+      },
+      {
+        "city": "CACAHUAL",
+        "code": "94886"
+      },
+      {
+        "city": "INÍRIDA",
+        "code": "94001"
+      },
+      {
+        "city": "LA GUADALUPE",
+        "code": "94885"
+      },
+      {
+        "city": "MAPIRIPANA",
+        "code": "94663"
+      },
+      {
+        "city": "MORICHAL NUEVO",
+        "code": "94888"
+      },
+      {
+        "city": "PANA PANA",
+        "code": "94887"
+      },
+      {
+        "city": "PUERTO COLOMBIA",
+        "code": "94884"
+      },
+      {
+        "city": "SAN FELIPE",
+        "code": "94883"
+      }
+    ]
+  },
+  {
+    "region": "Guaviare",
+    "code": "95",
+    "cities": [
+      {
+        "city": "CALAMAR",
+        "code": "95015"
+      },
+      {
+        "city": "EL RETORNO",
+        "code": "95025"
+      },
+      {
+        "city": "MIRAFLORES",
+        "code": "95200"
+      },
+      {
+        "city": "SAN JOSÉ DEL GUAVIARE",
+        "code": "95001"
+      }
+    ]
+  },
+  {
+    "region": "Huila",
+    "code": "41",
+    "cities": [
+      {
+        "city": "ACEVEDO",
+        "code": "41006"
+      },
+      {
+        "city": "AGRADO",
+        "code": "41013"
+      },
+      {
+        "city": "AIPE",
+        "code": "41016"
+      },
+      {
+        "city": "ALGECIRAS",
+        "code": "41020"
+      },
+      {
+        "city": "ALTAMIRA",
+        "code": "41026"
+      },
+      {
+        "city": "BARAYA",
+        "code": "41078"
+      },
+      {
+        "city": "CAMPOALEGRE",
+        "code": "41132"
+      },
+      {
+        "city": "COLOMBIA",
+        "code": "41206"
+      },
+      {
+        "city": "ELÍAS",
+        "code": "41244"
+      },
+      {
+        "city": "GARZÓN",
+        "code": "41298"
+      },
+      {
+        "city": "GIGANTE",
+        "code": "41306"
+      },
+      {
+        "city": "GUADALUPE",
+        "code": "41319"
+      },
+      {
+        "city": "HOBO",
+        "code": "41349"
+      },
+      {
+        "city": "ÍQUIRA",
+        "code": "41357"
+      },
+      {
+        "city": "ISNOS",
+        "code": "41359"
+      },
+      {
+        "city": "LA ARGENTINA (LA PLATA VIEJA)",
+        "code": "41378"
+      },
+      {
+        "city": "LA PLATA",
+        "code": "41396"
+      },
+      {
+        "city": "NÁTAGA",
+        "code": "41483"
+      },
+      {
+        "city": "NEIVA",
+        "code": "41001"
+      },
+      {
+        "city": "OPORAPA",
+        "code": "41503"
+      },
+      {
+        "city": "PAICOL",
+        "code": "41518"
+      },
+      {
+        "city": "PALERMO",
+        "code": "41524"
+      },
+      {
+        "city": "PALESTINA",
+        "code": "41530"
+      },
+      {
+        "city": "PITAL",
+        "code": "41548"
+      },
+      {
+        "city": "PITALITO",
+        "code": "41551"
+      },
+      {
+        "city": "RIVERA",
+        "code": "41615"
+      },
+      {
+        "city": "SALADOBLANCO",
+        "code": "41660"
+      },
+      {
+        "city": "SAN AGUSTÍN",
+        "code": "41668"
+      },
+      {
+        "city": "SANTA MARÍA",
+        "code": "41676"
+      },
+      {
+        "city": "SUAZA",
+        "code": "41770"
+      },
+      {
+        "city": "TARQUI",
+        "code": "41791"
+      },
+      {
+        "city": "TELLO",
+        "code": "41799"
+      },
+      {
+        "city": "TERUEL",
+        "code": "41801"
+      },
+      {
+        "city": "TESALIA (CARNICERÍAS)",
+        "code": "41797"
+      },
+      {
+        "city": "TIMANÁ",
+        "code": "41807"
+      },
+      {
+        "city": "VILLAVIEJA",
+        "code": "41872"
+      },
+      {
+        "city": "YAGUARÁ",
+        "code": "41885"
+      }
+    ]
+  },
+  {
+    "region": "La Guajira",
+    "code": "44",
+    "cities": [
+      {
+        "city": "ALBANIA",
+        "code": "44035"
+      },
+      {
+        "city": "BARRANCAS",
+        "code": "44078"
+      },
+      {
+        "city": "DIBULLA",
+        "code": "44090"
+      },
+      {
+        "city": "DISTRACCIÓN",
+        "code": "44098"
+      },
+      {
+        "city": "EL MOLINO",
+        "code": "44110"
+      },
+      {
+        "city": "FONSECA",
+        "code": "44279"
+      },
+      {
+        "city": "HATONUEVO",
+        "code": "44378"
+      },
+      {
+        "city": "LA JAGUA DEL PILAR",
+        "code": "44420"
+      },
+      {
+        "city": "MAICAO",
+        "code": "44430"
+      },
+      {
+        "city": "MANAURE",
+        "code": "44560"
+      },
+      {
+        "city": "RIOHACHA",
+        "code": "44001"
+      },
+      {
+        "city": "SAN JUAN DEL CESAR",
+        "code": "44650"
+      },
+      {
+        "city": "URIBIA",
+        "code": "44847"
+      },
+      {
+        "city": "URUMITA",
+        "code": "44855"
+      },
+      {
+        "city": "VILLANUEVA",
+        "code": "44874"
+      }
+    ]
+  },
+  {
+    "region": "Magdalena",
+    "code": "47",
+    "cities": [
+      {
+        "city": "ALGARROBO",
+        "code": "47030"
+      },
+      {
+        "city": "ARACATACA",
+        "code": "47053"
+      },
+      {
+        "city": "ARIGUANÍ",
+        "code": "47058"
+      },
+      {
+        "city": "CERRO DE SAN ANTONIO",
+        "code": "47161"
+      },
+      {
+        "city": "CHIBOLO",
+        "code": "47170"
+      },
+      {
+        "city": "CIÉNAGA",
+        "code": "47189"
+      },
+      {
+        "city": "CONCORDIA",
+        "code": "47205"
+      },
+      {
+        "city": "EL BANCO",
+        "code": "47245"
+      },
+      {
+        "city": "EL PIÑÓN",
+        "code": "47258"
+      },
+      {
+        "city": "EL RETÉN",
+        "code": "47268"
+      },
+      {
+        "city": "FUNDACIÓN",
+        "code": "47288"
+      },
+      {
+        "city": "GUAMAL",
+        "code": "47318"
+      },
+      {
+        "city": "NUEVA GRANADA",
+        "code": "47460"
+      },
+      {
+        "city": "PEDRAZA",
+        "code": "47541"
+      },
+      {
+        "city": "PIJIÑO DEL CARMEN",
+        "code": "47545"
+      },
+      {
+        "city": "PIVIJAY",
+        "code": "47551"
+      },
+      {
+        "city": "PLATO",
+        "code": "47555"
+      },
+      {
+        "city": "PUEBLOVIEJO",
+        "code": "47570"
+      },
+      {
+        "city": "REMOLINO",
+        "code": "47605"
+      },
+      {
+        "city": "SABANAS DE SAN ÁNGEL",
+        "code": "47660"
+      },
+      {
+        "city": "SALAMINA",
+        "code": "47675"
+      },
+      {
+        "city": "SAN SEBASTIÁN DE BUENAVISTA",
+        "code": "47692"
+      },
+      {
+        "city": "SAN ZENÓN",
+        "code": "47703"
+      },
+      {
+        "city": "SANTA ANA",
+        "code": "47707"
+      },
+      {
+        "city": "SANTA BÁRBARA DE PINTO",
+        "code": "47720"
+      },
+      {
+        "city": "SANTA MARTA",
+        "code": "47001"
+      },
+      {
+        "city": "SITIONUEVO",
+        "code": "47745"
+      },
+      {
+        "city": "TENERIFE",
+        "code": "47798"
+      },
+      {
+        "city": "ZAPAYÁN",
+        "code": "47960"
+      },
+      {
+        "city": "ZONA BANANERA",
+        "code": "47980"
+      }
+    ]
+  },
+  {
+    "region": "Meta",
+    "code": "50",
+    "cities": [
+      {
+        "city": "ACACÍAS",
+        "code": "50006"
+      },
+      {
+        "city": "BARRANCA DE UPÍA",
+        "code": "50110"
+      },
+      {
+        "city": "CABUYARO",
+        "code": "50124"
+      },
+      {
+        "city": "CASTILLA LA NUEVA",
+        "code": "50150"
+      },
+      {
+        "city": "CUBARRAL",
+        "code": "50223"
+      },
+      {
+        "city": "CUMARAL",
+        "code": "50226"
+      },
+      {
+        "city": "EL CALVARIO",
+        "code": "50245"
+      },
+      {
+        "city": "EL CASTILLO",
+        "code": "50251"
+      },
+      {
+        "city": "EL DORADO",
+        "code": "50270"
+      },
+      {
+        "city": "FUENTEDEORO",
+        "code": "50287"
+      },
+      {
+        "city": "GRANADA",
+        "code": "50313"
+      },
+      {
+        "city": "GUAMAL",
+        "code": "50318"
+      },
+      {
+        "city": "LA MACARENA",
+        "code": "50350"
+      },
+      {
+        "city": "LEJANÍAS",
+        "code": "50400"
+      },
+      {
+        "city": "MAPIRIPÁN",
+        "code": "50325"
+      },
+      {
+        "city": "MESETAS",
+        "code": "50330"
+      },
+      {
+        "city": "PUERTO CONCORDIA",
+        "code": "50450"
+      },
+      {
+        "city": "PUERTO GAITÁN",
+        "code": "50568"
+      },
+      {
+        "city": "PUERTO LLERAS",
+        "code": "50577"
+      },
+      {
+        "city": "PUERTO LÓPEZ",
+        "code": "50573"
+      },
+      {
+        "city": "PUERTO RICO",
+        "code": "50590"
+      },
+      {
+        "city": "RESTREPO",
+        "code": "50606"
+      },
+      {
+        "city": "SAN CARLOS DE GUAROA",
+        "code": "50680"
+      },
+      {
+        "city": "SAN JUAN DE ARAMA",
+        "code": "50683"
+      },
+      {
+        "city": "SAN JUANITO",
+        "code": "50686"
+      },
+      {
+        "city": "SAN MARTÍN DE LOS LLANOS",
+        "code": "50689"
+      },
+      {
+        "city": "URIBE",
+        "code": "50370"
+      },
+      {
+        "city": "VILLAVICENCIO",
+        "code": "50001"
+      },
+      {
+        "city": "VISTAHERMOSA",
+        "code": "50711"
+      }
+    ]
+  },
+  {
+    "region": "Nariño",
+    "code": "52",
+    "cities": [
+      {
+        "city": "ALBÁN (SAN JOSÉ)",
+        "code": "52019"
+      },
+      {
+        "city": "ALDANA",
+        "code": "52022"
+      },
+      {
+        "city": "ANCUYÁ",
+        "code": "52036"
+      },
+      {
+        "city": "ARBOLEDA",
+        "code": "52051"
+      },
+      {
+        "city": "BARBACOAS",
+        "code": "52079"
+      },
+      {
+        "city": "BELÉN",
+        "code": "52083"
+      },
+      {
+        "city": "BUESACO",
+        "code": "52110"
+      },
+      {
+        "city": "CHACHAGÜÍ",
+        "code": "52240"
+      },
+      {
+        "city": "COLÓN (GÉNOVA)",
+        "code": "52203"
+      },
+      {
+        "city": "CONSACÁ",
+        "code": "52207"
+      },
+      {
+        "city": "CONTADERO",
+        "code": "52210"
+      },
+      {
+        "city": "CÓRDOBA",
+        "code": "52215"
+      },
+      {
+        "city": "CUASPÚD",
+        "code": "52224"
+      },
+      {
+        "city": "CUMBAL",
+        "code": "52227"
+      },
+      {
+        "city": "CUMBITARA",
+        "code": "52233"
+      },
+      {
+        "city": "EL CHARCO",
+        "code": "52250"
+      },
+      {
+        "city": "EL PEÑOL",
+        "code": "52254"
+      },
+      {
+        "city": "EL ROSARIO",
+        "code": "52256"
+      },
+      {
+        "city": "EL TABLÓN DE GÓMEZ",
+        "code": "52258"
+      },
+      {
+        "city": "EL TAMBO",
+        "code": "52260"
+      },
+      {
+        "city": "FRANCISCO PIZARRO",
+        "code": "52520"
+      },
+      {
+        "city": "FUNES",
+        "code": "52287"
+      },
+      {
+        "city": "GUACHUCAL",
+        "code": "52317"
+      },
+      {
+        "city": "GUAITARILLA",
+        "code": "52320"
+      },
+      {
+        "city": "GUALMATÁN",
+        "code": "52323"
+      },
+      {
+        "city": "ILES",
+        "code": "52352"
+      },
+      {
+        "city": "IMUÉS",
+        "code": "52354"
+      },
+      {
+        "city": "IPIALES",
+        "code": "52356"
+      },
+      {
+        "city": "LA CRUZ",
+        "code": "52378"
+      },
+      {
+        "city": "LA FLORIDA",
+        "code": "52381"
+      },
+      {
+        "city": "LA LLANADA",
+        "code": "52385"
+      },
+      {
+        "city": "LA TOLA",
+        "code": "52390"
+      },
+      {
+        "city": "LA UNIÓN",
+        "code": "52399"
+      },
+      {
+        "city": "LEIVA",
+        "code": "52405"
+      },
+      {
+        "city": "LINARES",
+        "code": "52411"
+      },
+      {
+        "city": "LOS ANDES (SOTOMAYOR)",
+        "code": "52418"
+      },
+      {
+        "city": "MAGÜÍ (PAYÁN)",
+        "code": "52427"
+      },
+      {
+        "city": "MALLAMA (PIEDRANCHA)",
+        "code": "52435"
+      },
+      {
+        "city": "MOSQUERA",
+        "code": "52473"
+      },
+      {
+        "city": "NARIÑO",
+        "code": "52480"
+      },
+      {
+        "city": "OLAYA HERRERA",
+        "code": "52490"
+      },
+      {
+        "city": "OSPINA",
+        "code": "52506"
+      },
+      {
+        "city": "PASTO",
+        "code": "52001"
+      },
+      {
+        "city": "POLICARPA",
+        "code": "52540"
+      },
+      {
+        "city": "POTOSÍ",
+        "code": "52560"
+      },
+      {
+        "city": "PROVIDENCIA",
+        "code": "52565"
+      },
+      {
+        "city": "PUERRES",
+        "code": "52573"
+      },
+      {
+        "city": "PUPIALES",
+        "code": "52585"
+      },
+      {
+        "city": "RICAURTE",
+        "code": "52612"
+      },
+      {
+        "city": "ROBERTO PAYÁN (SAN JOSÉ)",
+        "code": "52621"
+      },
+      {
+        "city": "SAMANIEGO",
+        "code": "52678"
+      },
+      {
+        "city": "SAN ANDRÉS DE TUMACO",
+        "code": "52835"
+      },
+      {
+        "city": "SAN BERNARDO",
+        "code": "52685"
+      },
+      {
+        "city": "SAN LORENZO",
+        "code": "52687"
+      },
+      {
+        "city": "SAN PABLO",
+        "code": "52693"
+      },
+      {
+        "city": "SAN PEDRO DE CARTAGO",
+        "code": "52694"
+      },
+      {
+        "city": "SANDONÁ",
+        "code": "52683"
+      },
+      {
+        "city": "SANTA BÁRBARA",
+        "code": "52696"
+      },
+      {
+        "city": "SANTACRUZ",
+        "code": "52699"
+      },
+      {
+        "city": "SAPUYES",
+        "code": "52720"
+      },
+      {
+        "city": "TAMINANGO",
+        "code": "52786"
+      },
+      {
+        "city": "TANGUA",
+        "code": "52788"
+      },
+      {
+        "city": "TÚQUERRES",
+        "code": "52838"
+      },
+      {
+        "city": "YACUANQUER",
+        "code": "52885"
+      }
+    ]
+  },
+  {
+    "region": "Norte de Santander",
+    "code": "54",
+    "cities": [
+      {
+        "city": "ÁBREGO",
+        "code": "54003"
+      },
+      {
+        "city": "ARBOLEDAS",
+        "code": "54051"
+      },
+      {
+        "city": "BOCHALEMA",
+        "code": "54099"
+      },
+      {
+        "city": "BUCARASICA",
+        "code": "54109"
+      },
+      {
+        "city": "CÁCHIRA",
+        "code": "54128"
+      },
+      {
+        "city": "CÁCOTA DE VELASCO",
+        "code": "54125"
+      },
+      {
+        "city": "CHINÁCOTA",
+        "code": "54172"
+      },
+      {
+        "city": "CHITAGÁ",
+        "code": "54174"
+      },
+      {
+        "city": "CONVENCIÓN",
+        "code": "54206"
+      },
+      {
+        "city": "CÚCUTA",
+        "code": "54001"
+      },
+      {
+        "city": "CUCUTILLA",
+        "code": "54223"
+      },
+      {
+        "city": "DURANIA",
+        "code": "54239"
+      },
+      {
+        "city": "EL CARMEN",
+        "code": "54245"
+      },
+      {
+        "city": "EL TARRA",
+        "code": "54250"
+      },
+      {
+        "city": "EL ZULIA",
+        "code": "54261"
+      },
+      {
+        "city": "GRAMALOTE",
+        "code": "54313"
+      },
+      {
+        "city": "HACARÍ",
+        "code": "54344"
+      },
+      {
+        "city": "HERRÁN",
+        "code": "54347"
+      },
+      {
+        "city": "LA ESPERANZA",
+        "code": "54385"
+      },
+      {
+        "city": "LA PLAYA DE BELÉN",
+        "code": "54398"
+      },
+      {
+        "city": "LABATECA",
+        "code": "54377"
+      },
+      {
+        "city": "LOS PATIOS",
+        "code": "54405"
+      },
+      {
+        "city": "LOURDES",
+        "code": "54418"
+      },
+      {
+        "city": "MUTISCUA",
+        "code": "54480"
+      },
+      {
+        "city": "OCAÑA",
+        "code": "54498"
+      },
+      {
+        "city": "PAMPLONA",
+        "code": "54518"
+      },
+      {
+        "city": "PAMPLONITA",
+        "code": "54520"
+      },
+      {
+        "city": "PUERTO SANTANDER",
+        "code": "54553"
+      },
+      {
+        "city": "RAGONVALIA",
+        "code": "54599"
+      },
+      {
+        "city": "SALAZAR DE LAS PALMAS",
+        "code": "54660"
+      },
+      {
+        "city": "SAN CALIXTO",
+        "code": "54670"
+      },
+      {
+        "city": "SAN CAYETANO",
+        "code": "54673"
+      },
+      {
+        "city": "SANTIAGO",
+        "code": "54680"
+      },
+      {
+        "city": "SANTO DOMINGO DE SILOS",
+        "code": "54743"
+      },
+      {
+        "city": "SARDINATA",
+        "code": "54720"
+      },
+      {
+        "city": "TEORAMA",
+        "code": "54800"
+      },
+      {
+        "city": "TIBÚ",
+        "code": "54810"
+      },
+      {
+        "city": "TOLEDO",
+        "code": "54820"
+      },
+      {
+        "city": "VILLA CARO",
+        "code": "54871"
+      },
+      {
+        "city": "VILLA DEL ROSARIO",
+        "code": "54874"
+      }
+    ]
+  },
+  {
+    "region": "Putumayo",
+    "code": "86",
+    "cities": [
+      {
+        "city": "COLÓN",
+        "code": "86219"
+      },
+      {
+        "city": "MOCOA",
+        "code": "86001"
+      },
+      {
+        "city": "ORITO",
+        "code": "86320"
+      },
+      {
+        "city": "PUERTO ASÍS",
+        "code": "86568"
+      },
+      {
+        "city": "PUERTO CAICEDO",
+        "code": "86569"
+      },
+      {
+        "city": "PUERTO GUZMÁN",
+        "code": "86571"
+      },
+      {
+        "city": "PUERTO LEGUÍZAMO",
+        "code": "86573"
+      },
+      {
+        "city": "SAN FRANCISCO",
+        "code": "86755"
+      },
+      {
+        "city": "SAN MIGUEL",
+        "code": "86757"
+      },
+      {
+        "city": "SANTIAGO",
+        "code": "86760"
+      },
+      {
+        "city": "SIBUNDOY",
+        "code": "86749"
+      },
+      {
+        "city": "VALLE DEL GUAMUEZ",
+        "code": "86865"
+      },
+      {
+        "city": "VILLAGARZÓN",
+        "code": "86885"
+      }
+    ]
+  },
+  {
+    "region": "Quindío",
+    "code": "63",
+    "cities": [
+      {
+        "city": "ARMENIA",
+        "code": "63001"
+      },
+      {
+        "city": "BUENAVISTA",
+        "code": "63111"
+      },
+      {
+        "city": "CALARCÁ",
+        "code": "63130"
+      },
+      {
+        "city": "CIRCASIA",
+        "code": "63190"
+      },
+      {
+        "city": "CÓRDOBA",
+        "code": "63212"
+      },
+      {
+        "city": "FILANDIA",
+        "code": "63272"
+      },
+      {
+        "city": "GÉNOVA",
+        "code": "63302"
+      },
+      {
+        "city": "LA TEBAIDA",
+        "code": "63401"
+      },
+      {
+        "city": "MONTENEGRO",
+        "code": "63470"
+      },
+      {
+        "city": "PIJAO",
+        "code": "63548"
+      },
+      {
+        "city": "QUIMBAYA",
+        "code": "63594"
+      },
+      {
+        "city": "SALENTO",
+        "code": "63690"
+      }
+    ]
+  },
+  {
+    "region": "Risaralda",
+    "code": "66",
+    "cities": [
+      {
+        "city": "APÍA",
+        "code": "66045"
+      },
+      {
+        "city": "BALBOA",
+        "code": "66075"
+      },
+      {
+        "city": "BELÉN DE UMBRÍA",
+        "code": "66088"
+      },
+      {
+        "city": "DOSQUEBRADAS",
+        "code": "66170"
+      },
+      {
+        "city": "GUÁTICA",
+        "code": "66318"
+      },
+      {
+        "city": "LA CELIA",
+        "code": "66383"
+      },
+      {
+        "city": "LA VIRGINIA",
+        "code": "66400"
+      },
+      {
+        "city": "MARSELLA",
+        "code": "66440"
+      },
+      {
+        "city": "MISTRATÓ",
+        "code": "66456"
+      },
+      {
+        "city": "PEREIRA",
+        "code": "66001"
+      },
+      {
+        "city": "PUEBLO RICO",
+        "code": "66572"
+      },
+      {
+        "city": "QUINCHÍA",
+        "code": "66594"
+      },
+      {
+        "city": "SANTA ROSA DE CABAL",
+        "code": "66682"
+      },
+      {
+        "city": "SANTUARIO",
+        "code": "66687"
+      }
+    ]
+  },
+  {
+    "region": "San Andrés y Providencia",
+    "code": "88",
+    "cities": [
+      {
+        "city": "PROVIDENCIA",
+        "code": "88564"
+      },
+      {
+        "city": "SAN ANDRÉS",
+        "code": "88001"
+      }
+    ]
+  },
+  {
+    "region": "Santander",
+    "code": "68",
+    "cities": [
+      {
+        "city": "AGUADA",
+        "code": "68013"
+      },
+      {
+        "city": "ALBANIA",
+        "code": "68020"
+      },
+      {
+        "city": "ARATOCA",
+        "code": "68051"
+      },
+      {
+        "city": "BARBOSA",
+        "code": "68077"
+      },
+      {
+        "city": "BARICHARA",
+        "code": "68079"
+      },
+      {
+        "city": "BARRANCABERMEJA",
+        "code": "68081"
+      },
+      {
+        "city": "BETULIA",
+        "code": "68092"
+      },
+      {
+        "city": "BOLÍVAR",
+        "code": "68101"
+      },
+      {
+        "city": "BUCARAMANGA",
+        "code": "68001"
+      },
+      {
+        "city": "CABRERA",
+        "code": "68121"
+      },
+      {
+        "city": "CALIFORNIA",
+        "code": "68132"
+      },
+      {
+        "city": "CAPITANEJO",
+        "code": "68147"
+      },
+      {
+        "city": "CARCASÍ",
+        "code": "68152"
+      },
+      {
+        "city": "CEPITÁ",
+        "code": "68160"
+      },
+      {
+        "city": "CERRITO",
+        "code": "68162"
+      },
+      {
+        "city": "CHARALÁ",
+        "code": "68167"
+      },
+      {
+        "city": "CHARTA",
+        "code": "68169"
+      },
+      {
+        "city": "CHIMA",
+        "code": "68176"
+      },
+      {
+        "city": "CHIPATÁ",
+        "code": "68179"
+      },
+      {
+        "city": "CIMITARRA",
+        "code": "68190"
+      },
+      {
+        "city": "CONCEPCIÓN",
+        "code": "68207"
+      },
+      {
+        "city": "CONFINES",
+        "code": "68209"
+      },
+      {
+        "city": "CONTRATACIÓN",
+        "code": "68211"
+      },
+      {
+        "city": "COROMORO",
+        "code": "68217"
+      },
+      {
+        "city": "CURITÍ",
+        "code": "68229"
+      },
+      {
+        "city": "EL CARMEN DE CHUCURÍ",
+        "code": "68235"
+      },
+      {
+        "city": "EL GUACAMAYO",
+        "code": "68245"
+      },
+      {
+        "city": "EL PEÑÓN",
+        "code": "68250"
+      },
+      {
+        "city": "EL PLAYÓN",
+        "code": "68255"
+      },
+      {
+        "city": "ENCINO",
+        "code": "68264"
+      },
+      {
+        "city": "ENCISO",
+        "code": "68266"
+      },
+      {
+        "city": "FLORIÁN",
+        "code": "68271"
+      },
+      {
+        "city": "FLORIDABLANCA",
+        "code": "68276"
+      },
+      {
+        "city": "GALÁN",
+        "code": "68296"
+      },
+      {
+        "city": "GÁMBITA",
+        "code": "68298"
+      },
+      {
+        "city": "GIRÓN",
+        "code": "68307"
+      },
+      {
+        "city": "GUACA",
+        "code": "68318"
+      },
+      {
+        "city": "GUADALUPE",
+        "code": "68320"
+      },
+      {
+        "city": "GUAPOTÁ",
+        "code": "68322"
+      },
+      {
+        "city": "GUAVATÁ",
+        "code": "68324"
+      },
+      {
+        "city": "GÜEPSA",
+        "code": "68327"
+      },
+      {
+        "city": "HATO",
+        "code": "68344"
+      },
+      {
+        "city": "JESÚS MARÍA",
+        "code": "68368"
+      },
+      {
+        "city": "JORDÁN",
+        "code": "68370"
+      },
+      {
+        "city": "LA BELLEZA",
+        "code": "68377"
+      },
+      {
+        "city": "LA PAZ",
+        "code": "68397"
+      },
+      {
+        "city": "LANDÁZURI",
+        "code": "68385"
+      },
+      {
+        "city": "LEBRIJA",
+        "code": "68406"
+      },
+      {
+        "city": "LOS SANTOS",
+        "code": "68418"
+      },
+      {
+        "city": "MACARAVITA",
+        "code": "68425"
+      },
+      {
+        "city": "MÁLAGA",
+        "code": "68432"
+      },
+      {
+        "city": "MATANZA",
+        "code": "68444"
+      },
+      {
+        "city": "MOGOTES",
+        "code": "68464"
+      },
+      {
+        "city": "MOLAGAVITA",
+        "code": "68468"
+      },
+      {
+        "city": "OCAMONTE",
+        "code": "68498"
+      },
+      {
+        "city": "OIBA",
+        "code": "68500"
+      },
+      {
+        "city": "ONZAGA",
+        "code": "68502"
+      },
+      {
+        "city": "PALMAR",
+        "code": "68522"
+      },
+      {
+        "city": "PALMAS DEL SOCORRO",
+        "code": "68524"
+      },
+      {
+        "city": "PÁRAMO",
+        "code": "68533"
+      },
+      {
+        "city": "PIEDECUESTA",
+        "code": "68547"
+      },
+      {
+        "city": "PINCHOTE",
+        "code": "68549"
+      },
+      {
+        "city": "PUENTE NACIONAL",
+        "code": "68572"
+      },
+      {
+        "city": "PUERTO PARRA",
+        "code": "68573"
+      },
+      {
+        "city": "PUERTO WILCHES",
+        "code": "68575"
+      },
+      {
+        "city": "RIONEGRO",
+        "code": "68615"
+      },
+      {
+        "city": "SABANA DE TORRES",
+        "code": "68655"
+      },
+      {
+        "city": "SAN ANDRÉS",
+        "code": "68669"
+      },
+      {
+        "city": "SAN BENITO",
+        "code": "68673"
+      },
+      {
+        "city": "SAN GIL",
+        "code": "68679"
+      },
+      {
+        "city": "SAN JOAQUÍN",
+        "code": "68682"
+      },
+      {
+        "city": "SAN JOSÉ DE MIRANDA",
+        "code": "68684"
+      },
+      {
+        "city": "SAN MIGUEL",
+        "code": "68686"
+      },
+      {
+        "city": "SAN VICENTE DE CHUCURÍ",
+        "code": "68689"
+      },
+      {
+        "city": "SANTA BÁRBARA",
+        "code": "68705"
+      },
+      {
+        "city": "SANTA HELENA DEL OPÓN",
+        "code": "68720"
+      },
+      {
+        "city": "SIMACOTA",
+        "code": "68745"
+      },
+      {
+        "city": "SOCORRO",
+        "code": "68755"
+      },
+      {
+        "city": "SUAITA",
+        "code": "68770"
+      },
+      {
+        "city": "SUCRE",
+        "code": "68773"
+      },
+      {
+        "city": "SURATÁ",
+        "code": "68780"
+      },
+      {
+        "city": "TONA",
+        "code": "68820"
+      },
+      {
+        "city": "VALLE DE SAN JOSÉ",
+        "code": "68855"
+      },
+      {
+        "city": "VÉLEZ",
+        "code": "68861"
+      },
+      {
+        "city": "VETAS",
+        "code": "68867"
+      },
+      {
+        "city": "VILLANUEVA",
+        "code": "68872"
+      },
+      {
+        "city": "ZAPATOCA",
+        "code": "68895"
+      }
+    ]
+  },
+  {
+    "region": "Sucre",
+    "code": "70",
+    "cities": [
+      {
+        "city": "BUENAVISTA",
+        "code": "70110"
+      },
+      {
+        "city": "CAIMITO",
+        "code": "70124"
+      },
+      {
+        "city": "CHALÁN",
+        "code": "70230"
+      },
+      {
+        "city": "COLOSÓ",
+        "code": "70204"
+      },
+      {
+        "city": "COROZAL",
+        "code": "70215"
+      },
+      {
+        "city": "COVEÑAS",
+        "code": "70221"
+      },
+      {
+        "city": "EL ROBLE",
+        "code": "70233"
+      },
+      {
+        "city": "GALERAS",
+        "code": "70235"
+      },
+      {
+        "city": "GUARANDA",
+        "code": "70265"
+      },
+      {
+        "city": "LA UNIÓN",
+        "code": "70400"
+      },
+      {
+        "city": "LOS PALMITOS",
+        "code": "70418"
+      },
+      {
+        "city": "MAJAGUAL",
+        "code": "70429"
+      },
+      {
+        "city": "MORROA",
+        "code": "70473"
+      },
+      {
+        "city": "OVEJAS",
+        "code": "70508"
+      },
+      {
+        "city": "PALMITO",
+        "code": "70523"
+      },
+      {
+        "city": "SAMPUÉS",
+        "code": "70670"
+      },
+      {
+        "city": "SAN BENITO ABAD",
+        "code": "70678"
+      },
+      {
+        "city": "SAN JUAN DE BETULIA",
+        "code": "70702"
+      },
+      {
+        "city": "SAN LUIS DE SINCÉ",
+        "code": "70742"
+      },
+      {
+        "city": "SAN MARCOS",
+        "code": "70708"
+      },
+      {
+        "city": "SAN ONOFRE",
+        "code": "70713"
+      },
+      {
+        "city": "SAN PEDRO",
+        "code": "70717"
+      },
+      {
+        "city": "SANTIAGO DE TOLÚ",
+        "code": "70820"
+      },
+      {
+        "city": "SINCELEJO",
+        "code": "70001"
+      },
+      {
+        "city": "SUCRE",
+        "code": "70771"
+      },
+      {
+        "city": "TOLÚ VIEJO",
+        "code": "70823"
+      }
+    ]
+  },
+  {
+    "region": "Tolima",
+    "code": "73",
+    "cities": [
+      {
+        "city": "ALPUJARRA",
+        "code": "73024"
+      },
+      {
+        "city": "ALVARADO",
+        "code": "73026"
+      },
+      {
+        "city": "AMBALEMA",
+        "code": "73030"
+      },
+      {
+        "city": "ANZOÁTEGUI",
+        "code": "73043"
+      },
+      {
+        "city": "ARMERO (GUAYABAL)",
+        "code": "73055"
+      },
+      {
+        "city": "ATACO",
+        "code": "73067"
+      },
+      {
+        "city": "CAJAMARCA",
+        "code": "73124"
+      },
+      {
+        "city": "CARMEN DE APICALÁ",
+        "code": "73148"
+      },
+      {
+        "city": "CASABIANCA",
+        "code": "73152"
+      },
+      {
+        "city": "CHAPARRAL",
+        "code": "73168"
+      },
+      {
+        "city": "COELLO",
+        "code": "73200"
+      },
+      {
+        "city": "COYAIMA",
+        "code": "73217"
+      },
+      {
+        "city": "CUNDAY",
+        "code": "73226"
+      },
+      {
+        "city": "DOLORES",
+        "code": "73236"
+      },
+      {
+        "city": "ESPINAL",
+        "code": "73268"
+      },
+      {
+        "city": "FALAN",
+        "code": "73270"
+      },
+      {
+        "city": "FLANDES",
+        "code": "73275"
+      },
+      {
+        "city": "FRESNO",
+        "code": "73283"
+      },
+      {
+        "city": "GUAMO",
+        "code": "73319"
+      },
+      {
+        "city": "HERVEO",
+        "code": "73347"
+      },
+      {
+        "city": "HONDA",
+        "code": "73349"
+      },
+      {
+        "city": "IBAGUÉ",
+        "code": "73001"
+      },
+      {
+        "city": "ICONONZO",
+        "code": "73352"
+      },
+      {
+        "city": "LÉRIDA",
+        "code": "73408"
+      },
+      {
+        "city": "LÍBANO",
+        "code": "73411"
+      },
+      {
+        "city": "MELGAR",
+        "code": "73449"
+      },
+      {
+        "city": "MURILLO",
+        "code": "73461"
+      },
+      {
+        "city": "NATAGAIMA",
+        "code": "73483"
+      },
+      {
+        "city": "ORTEGA",
+        "code": "73504"
+      },
+      {
+        "city": "PALOCABILDO",
+        "code": "73520"
+      },
+      {
+        "city": "PIEDRAS",
+        "code": "73547"
+      },
+      {
+        "city": "PLANADAS",
+        "code": "73555"
+      },
+      {
+        "city": "PRADO",
+        "code": "73563"
+      },
+      {
+        "city": "PURIFICACIÓN",
+        "code": "73585"
+      },
+      {
+        "city": "RIOBLANCO",
+        "code": "73616"
+      },
+      {
+        "city": "RONCESVALLES",
+        "code": "73622"
+      },
+      {
+        "city": "ROVIRA",
+        "code": "73624"
+      },
+      {
+        "city": "SALDAÑA",
+        "code": "73671"
+      },
+      {
+        "city": "SAN ANTONIO",
+        "code": "73675"
+      },
+      {
+        "city": "SAN LUIS",
+        "code": "73678"
+      },
+      {
+        "city": "SAN SEBASTIÁN DE MARIQUITA",
+        "code": "73443"
+      },
+      {
+        "city": "SANTA ISABEL",
+        "code": "73686"
+      },
+      {
+        "city": "SUÁREZ",
+        "code": "73770"
+      },
+      {
+        "city": "VALLE DE SAN JUAN",
+        "code": "73854"
+      },
+      {
+        "city": "VENADILLO",
+        "code": "73861"
+      },
+      {
+        "city": "VILLAHERMOSA",
+        "code": "73870"
+      },
+      {
+        "city": "VILLARRICA",
+        "code": "73873"
+      }
+    ]
+  },
+  {
+    "region": "Valle del Cauca",
+    "code": "76",
+    "cities": [
+      {
+        "city": "ALCALÁ",
+        "code": "76020"
+      },
+      {
+        "city": "ANDALUCÍA",
+        "code": "76036"
+      },
+      {
+        "city": "ANSERMANUEVO",
+        "code": "76041"
+      },
+      {
+        "city": "ARGELIA",
+        "code": "76054"
+      },
+      {
+        "city": "BOLÍVAR",
+        "code": "76100"
+      },
+      {
+        "city": "BUENAVENTURA",
+        "code": "76109"
+      },
+      {
+        "city": "BUGALAGRANDE",
+        "code": "76113"
+      },
+      {
+        "city": "CAICEDONIA",
+        "code": "76122"
+      },
+      {
+        "city": "CALI",
+        "code": "76001"
+      },
+      {
+        "city": "CALIMA (DARIEN)",
+        "code": "76126"
+      },
+      {
+        "city": "CANDELARIA",
+        "code": "76130"
+      },
+      {
+        "city": "CARTAGO",
+        "code": "76147"
+      },
+      {
+        "city": "DAGUA",
+        "code": "76233"
+      },
+      {
+        "city": "EL ÁGUILA",
+        "code": "76243"
+      },
+      {
+        "city": "EL CAIRO",
+        "code": "76246"
+      },
+      {
+        "city": "EL CERRITO",
+        "code": "76248"
+      },
+      {
+        "city": "EL DOVIO",
+        "code": "76250"
+      },
+      {
+        "city": "FLORIDA",
+        "code": "76275"
+      },
+      {
+        "city": "GINEBRA",
+        "code": "76306"
+      },
+      {
+        "city": "GUACARÍ",
+        "code": "76318"
+      },
+      {
+        "city": "GUADALAJARA DE BUGA",
+        "code": "76111"
+      },
+      {
+        "city": "JAMUNDÍ",
+        "code": "76364"
+      },
+      {
+        "city": "LA CUMBRE",
+        "code": "76377"
+      },
+      {
+        "city": "LA UNIÓN",
+        "code": "76400"
+      },
+      {
+        "city": "LA VICTORIA",
+        "code": "76403"
+      },
+      {
+        "city": "OBANDO",
+        "code": "76497"
+      },
+      {
+        "city": "PALMIRA",
+        "code": "76520"
+      },
+      {
+        "city": "PRADERA",
+        "code": "76563"
+      },
+      {
+        "city": "RESTREPO",
+        "code": "76606"
+      },
+      {
+        "city": "RIOFRÍO",
+        "code": "76616"
+      },
+      {
+        "city": "ROLDANILLO",
+        "code": "76622"
+      },
+      {
+        "city": "SAN PEDRO",
+        "code": "76670"
+      },
+      {
+        "city": "SEVILLA",
+        "code": "76736"
+      },
+      {
+        "city": "TORO",
+        "code": "76823"
+      },
+      {
+        "city": "TRUJILLO",
+        "code": "76828"
+      },
+      {
+        "city": "TULUÁ",
+        "code": "76834"
+      },
+      {
+        "city": "ULLOA",
+        "code": "76845"
+      },
+      {
+        "city": "VERSALLES",
+        "code": "76863"
+      },
+      {
+        "city": "VIJES",
+        "code": "76869"
+      },
+      {
+        "city": "YOTOCO",
+        "code": "76890"
+      },
+      {
+        "city": "YUMBO",
+        "code": "76892"
+      },
+      {
+        "city": "ZARZAL",
+        "code": "76895"
+      }
+    ]
+  },
+  {
+    "region": "Vaupés",
+    "code": "97",
+    "cities": [
+      {
+        "city": "CARURÚ",
+        "code": "97161"
+      },
+      {
+        "city": "MITÚ",
+        "code": "97001"
+      },
+      {
+        "city": "PACOA",
+        "code": "97511"
+      },
+      {
+        "city": "PAPUNAHUA",
+        "code": "97777"
+      },
+      {
+        "city": "TARAIRA",
+        "code": "97666"
+      },
+      {
+        "city": "YAVARATÉ",
+        "code": "97889"
+      }
+    ]
+  },
+  {
+    "region": "Vichada",
+    "code": "99",
+    "cities": [
+      {
+        "city": "CUMARIBO",
+        "code": "99773"
+      },
+      {
+        "city": "LA PRIMAVERA",
+        "code": "99524"
+      },
+      {
+        "city": "PUERTO CARREÑO",
+        "code": "99001"
+      },
+      {
+        "city": "SANTA ROSALÍA",
+        "code": "99624"
+      }
+    ]
+  }
+]
